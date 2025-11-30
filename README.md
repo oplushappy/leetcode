@@ -5,11 +5,13 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/oplushappy/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0704-binary-search](https://github.com/oplushappy/leetcode/tree/master/0704-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/oplushappy/leetcode/tree/master/0907-koko-eating-bananas) |
 ## Binary Search
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/oplushappy/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0704-binary-search](https://github.com/oplushappy/leetcode/tree/master/0704-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/oplushappy/leetcode/tree/master/0907-koko-eating-bananas) |
 ## Matrix
 |  |
