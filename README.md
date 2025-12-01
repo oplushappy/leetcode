@@ -33,5 +33,10 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/oplushappy/leetcode/tree/master/0155-min-stack) |
 | [0981-time-based-key-value-store](https://github.com/oplushappy/leetcode/tree/master/0981-time-based-key-value-store) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/oplushappy/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
