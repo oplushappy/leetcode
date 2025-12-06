@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/oplushappy/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0141-linked-list-cycle](https://github.com/oplushappy/leetcode/tree/master/0141-linked-list-cycle) |
 | [0424-longest-repeating-character-replacement](https://github.com/oplushappy/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/oplushappy/leetcode/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/oplushappy/leetcode/tree/master/0981-time-based-key-value-store) |
@@ -78,11 +79,13 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/oplushappy/leetcode/tree/master/0141-linked-list-cycle) |
 | [0567-permutation-in-string](https://github.com/oplushappy/leetcode/tree/master/0567-permutation-in-string) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/oplushappy/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/oplushappy/leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/oplushappy/leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
