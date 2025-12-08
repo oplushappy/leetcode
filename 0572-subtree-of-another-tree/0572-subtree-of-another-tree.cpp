@@ -16,11 +16,11 @@ public:
         if(root && subRoot == nullptr) return true;
         if(root == nullptr && subRoot) return false;
 
-        bool res = isSameTree(root, subRoot);
-        if(!res) {
-            return isSubtree(root->left, subRoot) || isSubtree(root->right, subRoot);
+        if(isSameTree(root, subRoot)) {
+            return true;
         }
-        return true;
+        
+        return isSubtree(root->left, subRoot) || isSubtree(root->right, subRoot);
     }
 
     bool isSameTree(TreeNode* s, TreeNode* t) {
