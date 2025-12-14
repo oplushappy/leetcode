@@ -6,6 +6,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/oplushappy/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/oplushappy/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/oplushappy/leetcode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/oplushappy/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/oplushappy/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/oplushappy/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -114,6 +115,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/oplushappy/leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/oplushappy/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Doubly-Linked List
 |  |
@@ -189,4 +191,8 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/oplushappy/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/oplushappy/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
