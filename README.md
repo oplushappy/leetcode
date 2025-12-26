@@ -8,6 +8,7 @@
 | [0039-combination-sum](https://github.com/oplushappy/leetcode/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/oplushappy/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/oplushappy/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/oplushappy/leetcode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/oplushappy/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/oplushappy/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/oplushappy/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/oplushappy/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/oplushappy/leetcode/tree/master/0079-word-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +48,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/oplushappy/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0079-word-search](https://github.com/oplushappy/leetcode/tree/master/0079-word-search) |
 | [0424-longest-repeating-character-replacement](https://github.com/oplushappy/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/oplushappy/leetcode/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/oplushappy/leetcode/tree/master/0981-time-based-key-value-store) |
@@ -140,6 +143,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/oplushappy/leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/oplushappy/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/oplushappy/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/oplushappy/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -197,4 +201,5 @@
 | ------- |
 | [0039-combination-sum](https://github.com/oplushappy/leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/oplushappy/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/oplushappy/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
