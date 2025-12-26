@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/oplushappy/leetcode/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/oplushappy/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/oplushappy/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
 |  |
@@ -83,6 +84,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/oplushappy/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/oplushappy/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sliding Window
 |  |
@@ -202,4 +204,8 @@
 | [0039-combination-sum](https://github.com/oplushappy/leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/oplushappy/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/oplushappy/leetcode/tree/master/0079-word-search) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/oplushappy/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
