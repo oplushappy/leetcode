@@ -7,7 +7,7 @@ class Solution:
 
         def bfs(r, c) :
             q = deque()
-            visited.add((r, c))
+            grid[r][c] = '0'
             q.append((r, c))
 
             direction = [[1, 0], [-1, 0], [0, 1], [0, -1]]
@@ -18,15 +18,14 @@ class Solution:
                     nc = col + dc
                     if (nr in range(ROWS) and
                         nc in range(COLS) and
-                        grid[nr][nc] == "1" and
-                        (nr, nc) not in visited) :
+                        grid[nr][nc] == "1") :
                         q.append((nr, nc))
-                        visited.add((nr, nc))
+                        grid[nr][nc] = "0"
 
 
         for r in range(ROWS):
             for c in range(COLS):
-                if (grid[r][c] == "1" and  (r, c) not in visited) :
+                if (grid[r][c] == "1") :
                     bfs(r, c)
                     island += 1
         
