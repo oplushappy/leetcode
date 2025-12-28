@@ -20,6 +20,7 @@
 | [0739-daily-temperatures](https://github.com/oplushappy/leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/oplushappy/leetcode/tree/master/0853-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/oplushappy/leetcode/tree/master/0907-koko-eating-bananas) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/oplushappy/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -30,12 +31,14 @@
 | [0704-binary-search](https://github.com/oplushappy/leetcode/tree/master/0704-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/oplushappy/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/oplushappy/leetcode/tree/master/0981-time-based-key-value-store) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/oplushappy/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/oplushappy/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/oplushappy/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/oplushappy/leetcode/tree/master/0200-number-of-islands) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/oplushappy/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Hash Table
 |  |
 | ------- |
