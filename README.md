@@ -166,6 +166,7 @@
 | [0404-sum-of-left-leaves](https://github.com/oplushappy/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/oplushappy/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -188,6 +189,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/oplushappy/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/oplushappy/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -204,6 +206,7 @@
 | [0404-sum-of-left-leaves](https://github.com/oplushappy/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/oplushappy/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -223,6 +226,7 @@
 | [0404-sum-of-left-leaves](https://github.com/oplushappy/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/oplushappy/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
 | ------- |
