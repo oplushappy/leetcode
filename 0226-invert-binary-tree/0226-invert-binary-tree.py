@@ -10,15 +10,9 @@ class Solution:
             if root is None:
                 return
                 
-            if root.left is None and root.right is None:
-                return
-            
             dfs(root.left)
             dfs(root.right)
-
-            tmp = root.left
-            root.left = root.right
-            root.right = tmp
+            root.left, root.right = root.right, root.left
             return
         
         dfs(root)
