@@ -10,10 +10,6 @@ class Solution:
         def dfs(root):
             if root is None:
                 return True
-            if root.val != value:
-                return False
-            if not dfs(root.left): return False
-            if not dfs(root.right): return False
-            return True
+            return root.val == value and dfs(root.left) and dfs(root.right)
         
         return dfs(root)
