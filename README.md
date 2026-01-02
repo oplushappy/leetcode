@@ -172,6 +172,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/oplushappy/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/oplushappy/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/oplushappy/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1005-univalued-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -197,6 +198,7 @@
 | [0404-sum-of-left-leaves](https://github.com/oplushappy/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/oplushappy/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/oplushappy/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1005-univalued-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -216,6 +218,7 @@
 | [0226-invert-binary-tree](https://github.com/oplushappy/leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/oplushappy/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/oplushappy/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [1005-univalued-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -238,6 +241,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/oplushappy/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/oplushappy/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/oplushappy/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1005-univalued-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
