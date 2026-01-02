@@ -1,15 +1,10 @@
 class Solution:
     def repeatedNTimes(self, nums: List[int]) -> int:
-        map = defaultdict(int)
-
-        for i in range(len(nums)):
-            map[nums[i]] += 1
-        
-        n = len(nums) // 2
-        for key, value in map.items():
-            if value == n:
-                return key
-        
+        for i in range(len(nums) - 2):
+            if nums[i] == nums[i + 1] or nums[i] == nums[i + 2]:
+                return nums[i]
+            
+        return nums[-1]
 
 
         
