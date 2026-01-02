@@ -23,6 +23,7 @@
 | [0853-car-fleet](https://github.com/oplushappy/leetcode/tree/master/0853-car-fleet) |
 | [0870-magic-squares-in-grid](https://github.com/oplushappy/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0907-koko-eating-bananas](https://github.com/oplushappy/leetcode/tree/master/0907-koko-eating-bananas) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/oplushappy/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/oplushappy/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Binary Search
 |  |
@@ -58,6 +59,7 @@
 | [0757-pyramid-transition-matrix](https://github.com/oplushappy/leetcode/tree/master/0757-pyramid-transition-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/oplushappy/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0981-time-based-key-value-store](https://github.com/oplushappy/leetcode/tree/master/0981-time-based-key-value-store) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/oplushappy/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## String
 |  |
