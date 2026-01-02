@@ -8,15 +8,12 @@ class Solution:
     def evaluateTree(self, root: Optional[TreeNode]) -> bool:
         
         def dfs(root):
-            if root is None:
-                return
-
             if root.val == 2:
                 return dfs(root.left) or dfs(root.right)
             
             if root.val == 3:
                 return dfs(root.left) and dfs(root.right)
 
-            return root.val
+            return root.val == 1
 
-        return bool(dfs(root)) 
+        return dfs(root)
