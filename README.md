@@ -178,6 +178,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/oplushappy/leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -206,6 +207,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/oplushappy/leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -252,6 +254,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/oplushappy/leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## String Matching
 |  |
 | ------- |
