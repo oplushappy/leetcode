@@ -12,9 +12,7 @@ class Solution:
                 return root1 is root2
             
             return (root1.val == root2.val and 
-            ((dfs(root1.left, root2.left) and 
-            dfs(root1.right, root2.right)) or
-            (dfs(root1.right, root2.left) and
-            dfs(root1.left, root2.right))))
+            ((dfs(root1.left, root2.left) and dfs(root1.right, root2.right)) or
+            (dfs(root1.right, root2.left) and dfs(root1.left, root2.right))))
 
         return dfs(root1, root2)
