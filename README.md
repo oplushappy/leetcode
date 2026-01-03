@@ -111,6 +111,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/oplushappy/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/oplushappy/leetcode/tree/master/0198-house-robber) |
 | [0647-palindromic-substrings](https://github.com/oplushappy/leetcode/tree/master/0647-palindromic-substrings) |
+| [1527-number-of-ways-to-paint-n-3-grid](https://github.com/oplushappy/leetcode/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 ## Sliding Window
 |  |
 | ------- |
