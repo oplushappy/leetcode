@@ -24,6 +24,7 @@
 | [0870-magic-squares-in-grid](https://github.com/oplushappy/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0907-koko-eating-bananas](https://github.com/oplushappy/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/oplushappy/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1284-four-divisors](https://github.com/oplushappy/leetcode/tree/master/1284-four-divisors) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/oplushappy/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Binary Search
 |  |
@@ -94,6 +95,7 @@
 | [0070-climbing-stairs](https://github.com/oplushappy/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/oplushappy/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0870-magic-squares-in-grid](https://github.com/oplushappy/leetcode/tree/master/0870-magic-squares-in-grid) |
+| [1284-four-divisors](https://github.com/oplushappy/leetcode/tree/master/1284-four-divisors) |
 ## Monotonic Stack
 |  |
 | ------- |
