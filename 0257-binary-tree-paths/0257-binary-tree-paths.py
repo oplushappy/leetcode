@@ -10,17 +10,16 @@ class Solution:
         path = []
         def dfs(root):
             if root is None:
-                path.append(None)
-                return
-            if root.left is None and root.right is None:
-                path.append(root.val)
-                ans.append('->'.join(map(str, path)))
                 return
 
-            path.append(root.val)
-            dfs(root.left)
-            path.pop()
-            dfs(root.right)
+            path.append(str(root.val))            
+
+            if root.left is None and root.right is None:
+                ans.append('->'.join(path))
+            else:    
+                dfs(root.left)
+                dfs(root.right)
+
             path.pop()
             return
         
