@@ -20,10 +20,9 @@ class Solution:
             if root.left is None and root.right is None:
                 if curSum == targetSum:
                     ans.append(path.copy())
-            else:
-                dfs(root.left)
-                dfs(root.right)
-            
+
+            dfs(root.left)
+            dfs(root.right)
             path.pop()
             curSum -= root.val
         
