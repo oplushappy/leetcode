@@ -76,6 +76,7 @@
 | [0567-permutation-in-string](https://github.com/oplushappy/leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/oplushappy/leetcode/tree/master/0647-palindromic-substrings) |
 | [0757-pyramid-transition-matrix](https://github.com/oplushappy/leetcode/tree/master/0757-pyramid-transition-matrix) |
+| [0784-letter-case-permutation](https://github.com/oplushappy/leetcode/tree/master/0784-letter-case-permutation) |
 | [0981-time-based-key-value-store](https://github.com/oplushappy/leetcode/tree/master/0981-time-based-key-value-store) |
 ## Design
 |  |
@@ -158,6 +159,7 @@
 | [0078-subsets](https://github.com/oplushappy/leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/oplushappy/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0757-pyramid-transition-matrix](https://github.com/oplushappy/leetcode/tree/master/0757-pyramid-transition-matrix) |
+| [0784-letter-case-permutation](https://github.com/oplushappy/leetcode/tree/master/0784-letter-case-permutation) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -307,6 +309,7 @@
 | [0113-path-sum-ii](https://github.com/oplushappy/leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/oplushappy/leetcode/tree/master/0257-binary-tree-paths) |
 | [0757-pyramid-transition-matrix](https://github.com/oplushappy/leetcode/tree/master/0757-pyramid-transition-matrix) |
+| [0784-letter-case-permutation](https://github.com/oplushappy/leetcode/tree/master/0784-letter-case-permutation) |
 ## Memoization
 |  |
 | ------- |
