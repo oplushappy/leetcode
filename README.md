@@ -27,6 +27,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/oplushappy/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1284-four-divisors](https://github.com/oplushappy/leetcode/tree/master/1284-four-divisors) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/oplushappy/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/oplushappy/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1975-maximum-matrix-sum](https://github.com/oplushappy/leetcode/tree/master/1975-maximum-matrix-sum) |
 ## Binary Search
 |  |
@@ -112,6 +113,7 @@
 | ------- |
 | [0853-car-fleet](https://github.com/oplushappy/leetcode/tree/master/0853-car-fleet) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/oplushappy/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -160,6 +162,7 @@
 | [0287-find-the-duplicate-number](https://github.com/oplushappy/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0757-pyramid-transition-matrix](https://github.com/oplushappy/leetcode/tree/master/0757-pyramid-transition-matrix) |
 | [0784-letter-case-permutation](https://github.com/oplushappy/leetcode/tree/master/0784-letter-case-permutation) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/oplushappy/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -335,4 +338,8 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/oplushappy/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+## Counting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/oplushappy/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
