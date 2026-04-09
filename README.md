@@ -28,6 +28,7 @@
 | [0322-coin-change](https://github.com/oplushappy/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/oplushappy/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/oplushappy/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0621-task-scheduler](https://github.com/oplushappy/leetcode/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/oplushappy/leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/oplushappy/leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/oplushappy/leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -79,6 +80,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/oplushappy/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0508-most-frequent-subtree-sum](https://github.com/oplushappy/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0567-permutation-in-string](https://github.com/oplushappy/leetcode/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/oplushappy/leetcode/tree/master/0621-task-scheduler) |
 | [0757-pyramid-transition-matrix](https://github.com/oplushappy/leetcode/tree/master/0757-pyramid-transition-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/oplushappy/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0981-time-based-key-value-store](https://github.com/oplushappy/leetcode/tree/master/0981-time-based-key-value-store) |
@@ -133,6 +135,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/oplushappy/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/oplushappy/leetcode/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/oplushappy/leetcode/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/oplushappy/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -375,6 +378,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/oplushappy/leetcode/tree/master/0621-task-scheduler) |
 | [1975-maximum-matrix-sum](https://github.com/oplushappy/leetcode/tree/master/1975-maximum-matrix-sum) |
 ## Geometry
 |  |
@@ -384,11 +388,13 @@
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/oplushappy/leetcode/tree/master/0621-task-scheduler) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/oplushappy/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/oplushappy/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/oplushappy/leetcode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/oplushappy/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/oplushappy/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/oplushappy/leetcode/tree/master/1046-last-stone-weight) |
