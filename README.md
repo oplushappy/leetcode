@@ -15,6 +15,7 @@
 | [0090-subsets-ii](https://github.com/oplushappy/leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/oplushappy/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/oplushappy/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/oplushappy/leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/oplushappy/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/oplushappy/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/oplushappy/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -69,6 +70,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/oplushappy/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/oplushappy/leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/oplushappy/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/oplushappy/leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/oplushappy/leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/oplushappy/leetcode/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/oplushappy/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -85,6 +87,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/oplushappy/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/oplushappy/leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/oplushappy/leetcode/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/oplushappy/leetcode/tree/master/0139-word-break) |
 | [0257-binary-tree-paths](https://github.com/oplushappy/leetcode/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/oplushappy/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/oplushappy/leetcode/tree/master/0567-permutation-in-string) |
@@ -137,6 +140,7 @@
 | [0070-climbing-stairs](https://github.com/oplushappy/leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/oplushappy/leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/oplushappy/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/oplushappy/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/oplushappy/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/oplushappy/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/oplushappy/leetcode/tree/master/0213-house-robber-ii) |
@@ -349,6 +353,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/oplushappy/leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/oplushappy/leetcode/tree/master/0139-word-break) |
 ## Union Find
 |  |
 | ------- |
@@ -391,4 +396,8 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/oplushappy/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/oplushappy/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/oplushappy/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
