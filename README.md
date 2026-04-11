@@ -37,6 +37,7 @@
 | [0870-magic-squares-in-grid](https://github.com/oplushappy/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0907-koko-eating-bananas](https://github.com/oplushappy/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/oplushappy/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/oplushappy/leetcode/tree/master/0994-rotting-oranges) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/oplushappy/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1046-last-stone-weight](https://github.com/oplushappy/leetcode/tree/master/1046-last-stone-weight) |
 | [1266-minimum-time-visiting-all-points](https://github.com/oplushappy/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -66,6 +67,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/oplushappy/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/oplushappy/leetcode/tree/master/0695-max-area-of-island) |
 | [0870-magic-squares-in-grid](https://github.com/oplushappy/leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0994-rotting-oranges](https://github.com/oplushappy/leetcode/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/oplushappy/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/oplushappy/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/oplushappy/leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -290,6 +292,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/oplushappy/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0617-merge-two-binary-trees](https://github.com/oplushappy/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/oplushappy/leetcode/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/oplushappy/leetcode/tree/master/0994-rotting-oranges) |
 | [1005-univalued-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
