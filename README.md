@@ -46,6 +46,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/oplushappy/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/oplushappy/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/oplushappy/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/oplushappy/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1975-maximum-matrix-sum](https://github.com/oplushappy/leetcode/tree/master/1975-maximum-matrix-sum) |
 ## Binary Search
 |  |
