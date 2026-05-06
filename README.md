@@ -48,6 +48,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/oplushappy/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/oplushappy/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/oplushappy/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1861-rotating-the-box](https://github.com/oplushappy/leetcode/tree/master/1861-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/oplushappy/leetcode/tree/master/1975-maximum-matrix-sum) |
 ## Binary Search
 |  |
@@ -74,6 +75,7 @@
 | [0994-rotting-oranges](https://github.com/oplushappy/leetcode/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/oplushappy/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/oplushappy/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1861-rotating-the-box](https://github.com/oplushappy/leetcode/tree/master/1861-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/oplushappy/leetcode/tree/master/1975-maximum-matrix-sum) |
 ## Hash Table
 |  |
@@ -184,6 +186,7 @@
 | [0287-find-the-duplicate-number](https://github.com/oplushappy/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/oplushappy/leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/oplushappy/leetcode/tree/master/0647-palindromic-substrings) |
+| [1861-rotating-the-box](https://github.com/oplushappy/leetcode/tree/master/1861-rotating-the-box) |
 ## Linked List
 |  |
 | ------- |
