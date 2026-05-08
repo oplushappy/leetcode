@@ -50,6 +50,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/oplushappy/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1861-rotating-the-box](https://github.com/oplushappy/leetcode/tree/master/1861-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/oplushappy/leetcode/tree/master/1975-maximum-matrix-sum) |
+| [3660-jump-game-ix](https://github.com/oplushappy/leetcode/tree/master/3660-jump-game-ix) |
 ## Binary Search
 |  |
 | ------- |
@@ -169,6 +170,7 @@
 | [0647-palindromic-substrings](https://github.com/oplushappy/leetcode/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/oplushappy/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/oplushappy/leetcode/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
+| [3660-jump-game-ix](https://github.com/oplushappy/leetcode/tree/master/3660-jump-game-ix) |
 ## Sliding Window
 |  |
 | ------- |
