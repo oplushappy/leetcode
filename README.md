@@ -50,6 +50,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/oplushappy/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1861-rotating-the-box](https://github.com/oplushappy/leetcode/tree/master/1861-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/oplushappy/leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2553-separate-the-digits-in-an-array](https://github.com/oplushappy/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3660-jump-game-ix](https://github.com/oplushappy/leetcode/tree/master/3660-jump-game-ix) |
 ## Binary Search
 |  |
@@ -450,4 +451,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/oplushappy/leetcode/tree/master/0207-course-schedule) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/oplushappy/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
