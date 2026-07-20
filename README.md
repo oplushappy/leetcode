@@ -44,6 +44,7 @@
 | [0994-rotting-oranges](https://github.com/oplushappy/leetcode/tree/master/0994-rotting-oranges) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/oplushappy/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1046-last-stone-weight](https://github.com/oplushappy/leetcode/tree/master/1046-last-stone-weight) |
+| [1260-shift-2d-grid](https://github.com/oplushappy/leetcode/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/oplushappy/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1284-four-divisors](https://github.com/oplushappy/leetcode/tree/master/1284-four-divisors) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/oplushappy/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -77,6 +78,7 @@
 | [0695-max-area-of-island](https://github.com/oplushappy/leetcode/tree/master/0695-max-area-of-island) |
 | [0870-magic-squares-in-grid](https://github.com/oplushappy/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/oplushappy/leetcode/tree/master/0994-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/oplushappy/leetcode/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/oplushappy/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/oplushappy/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1861-rotating-the-box](https://github.com/oplushappy/leetcode/tree/master/1861-rotating-the-box) |
@@ -468,6 +470,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/oplushappy/leetcode/tree/master/1260-shift-2d-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/oplushappy/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Merge Sort
 |  |
