@@ -120,6 +120,7 @@
 | [0784-letter-case-permutation](https://github.com/oplushappy/leetcode/tree/master/0784-letter-case-permutation) |
 | [0981-time-based-key-value-store](https://github.com/oplushappy/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/oplushappy/leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/oplushappy/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Design
 |  |
 | ------- |
@@ -476,4 +477,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/oplushappy/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/oplushappy/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
