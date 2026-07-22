@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/oplushappy/leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/oplushappy/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/oplushappy/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/oplushappy/leetcode/tree/master/0040-combination-sum-ii) |
@@ -86,6 +87,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/oplushappy/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/oplushappy/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/oplushappy/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/oplushappy/leetcode/tree/master/0133-clone-graph) |
