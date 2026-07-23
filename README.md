@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/oplushappy/leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/oplushappy/leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/oplushappy/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/oplushappy/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/oplushappy/leetcode/tree/master/0040-combination-sum-ii) |
@@ -160,6 +161,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/oplushappy/leetcode/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/oplushappy/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/oplushappy/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/oplushappy/leetcode/tree/master/0621-task-scheduler) |
@@ -197,6 +199,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/oplushappy/leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/oplushappy/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/oplushappy/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/oplushappy/leetcode/tree/master/0061-rotate-list) |
