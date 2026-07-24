@@ -25,6 +25,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/oplushappy/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/oplushappy/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/oplushappy/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/oplushappy/leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/oplushappy/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/oplushappy/leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/oplushappy/leetcode/tree/master/0213-house-robber-ii) |
@@ -99,6 +100,7 @@
 | [0139-word-break](https://github.com/oplushappy/leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/oplushappy/leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/oplushappy/leetcode/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/oplushappy/leetcode/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/oplushappy/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0508-most-frequent-subtree-sum](https://github.com/oplushappy/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0525-contiguous-array](https://github.com/oplushappy/leetcode/tree/master/0525-contiguous-array) |
@@ -165,6 +167,7 @@
 | ------- |
 | [0015-3sum](https://github.com/oplushappy/leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/oplushappy/leetcode/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/oplushappy/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/oplushappy/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/oplushappy/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/oplushappy/leetcode/tree/master/0621-task-scheduler) |
@@ -392,6 +395,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/oplushappy/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/oplushappy/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/oplushappy/leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/oplushappy/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/oplushappy/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/oplushappy/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -440,6 +444,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/oplushappy/leetcode/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/oplushappy/leetcode/tree/master/0621-task-scheduler) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/oplushappy/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Heap (Priority Queue)
