@@ -1,24 +1,28 @@
 class Solution {
 public:
-    vector<vector<int>> res;
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<int> cur;
-        dfs(0, cur, 0, target, candidates);
-        return res;
-    }
-    void dfs(int i, vector<int>& cur, int total, int target, vector<int>& candidates) {
-        if(total == target) {
-            res.push_back(cur);
-            return;
-        }
-        
-        if(i >= candidates.size() || total > target) {
-            return;
-        }
+        vector<vector<int>> res;
+        vector<int> comb;
+        int n = candidates.size();
+        auto backtrack = [&](auto &self, int pos, int sum) {
+            if(sum == target) {
+                res.push_back(comb);
+                return;
+            }
 
-        cur.push_back(candidates[i]);
-        dfs(i, cur, total + candidates[i], target, candidates);
-        cur.pop_back();
-        dfs(i + 1, cur, total, target, candidates);
+            if(sum > target) return;
+            if(pos >= n) return;
+
+            comb.push_back(candidates[pos]);
+            self(self, pos, sum + candidates[pos]);
+            comb.pop_back();
+
+            self(self, pos + 1, sum);
+
+            return;
+        };
+
+        backtrack(backtrack, 0, 0);
+        return res;
     }
 };
