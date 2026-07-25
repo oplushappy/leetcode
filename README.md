@@ -31,6 +31,7 @@
 | [0200-number-of-islands](https://github.com/oplushappy/leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/oplushappy/leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/oplushappy/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/oplushappy/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/oplushappy/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/oplushappy/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/oplushappy/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -102,6 +103,7 @@
 | [0141-linked-list-cycle](https://github.com/oplushappy/leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/oplushappy/leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/oplushappy/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/oplushappy/leetcode/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/oplushappy/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0508-most-frequent-subtree-sum](https://github.com/oplushappy/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0525-contiguous-array](https://github.com/oplushappy/leetcode/tree/master/0525-contiguous-array) |
@@ -171,6 +173,7 @@
 | [0075-sort-colors](https://github.com/oplushappy/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/oplushappy/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/oplushappy/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/oplushappy/leetcode/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/oplushappy/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/oplushappy/leetcode/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/oplushappy/leetcode/tree/master/0853-car-fleet) |
