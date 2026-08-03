@@ -56,6 +56,7 @@
 | [0870-magic-squares-in-grid](https://github.com/oplushappy/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0907-koko-eating-bananas](https://github.com/oplushappy/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/oplushappy/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [0977-squares-of-a-sorted-array](https://github.com/oplushappy/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/oplushappy/leetcode/tree/master/0994-rotting-oranges) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/oplushappy/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1046-last-stone-weight](https://github.com/oplushappy/leetcode/tree/master/1046-last-stone-weight) |
@@ -188,6 +189,7 @@
 | [0621-task-scheduler](https://github.com/oplushappy/leetcode/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/oplushappy/leetcode/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/oplushappy/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [0977-squares-of-a-sorted-array](https://github.com/oplushappy/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/oplushappy/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Dynamic Programming
@@ -234,6 +236,7 @@
 | [0287-find-the-duplicate-number](https://github.com/oplushappy/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/oplushappy/leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/oplushappy/leetcode/tree/master/0647-palindromic-substrings) |
+| [0977-squares-of-a-sorted-array](https://github.com/oplushappy/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1861-rotating-the-box](https://github.com/oplushappy/leetcode/tree/master/1861-rotating-the-box) |
 ## Linked List
 |  |
