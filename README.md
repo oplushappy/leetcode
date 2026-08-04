@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/oplushappy/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/oplushappy/leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/oplushappy/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/oplushappy/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/oplushappy/leetcode/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/oplushappy/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/oplushappy/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/oplushappy/leetcode/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/oplushappy/leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/oplushappy/leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/oplushappy/leetcode/tree/master/0115-distinct-subsequences) |
@@ -505,6 +507,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/oplushappy/leetcode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/oplushappy/leetcode/tree/master/0139-word-break) |
 ## Union-Find
 |  |
