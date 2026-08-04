@@ -133,6 +133,7 @@
 | [0079-word-search](https://github.com/oplushappy/leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/oplushappy/leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/oplushappy/leetcode/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/oplushappy/leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/oplushappy/leetcode/tree/master/0139-word-break) |
 | [0257-binary-tree-paths](https://github.com/oplushappy/leetcode/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/oplushappy/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -232,6 +233,7 @@
 | [0042-trapping-rain-water](https://github.com/oplushappy/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/oplushappy/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/oplushappy/leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/oplushappy/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/oplushappy/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/oplushappy/leetcode/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/oplushappy/leetcode/tree/master/0189-rotate-array) |
