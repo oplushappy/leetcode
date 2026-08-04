@@ -114,6 +114,7 @@
 | [0146-lru-cache](https://github.com/oplushappy/leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/oplushappy/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/oplushappy/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/oplushappy/leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/oplushappy/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0508-most-frequent-subtree-sum](https://github.com/oplushappy/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0525-contiguous-array](https://github.com/oplushappy/leetcode/tree/master/0525-contiguous-array) |
@@ -135,6 +136,7 @@
 | [0115-distinct-subsequences](https://github.com/oplushappy/leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/oplushappy/leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/oplushappy/leetcode/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/oplushappy/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/oplushappy/leetcode/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/oplushappy/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/oplushappy/leetcode/tree/master/0567-permutation-in-string) |
@@ -188,6 +190,7 @@
 | [0169-majority-element](https://github.com/oplushappy/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/oplushappy/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/oplushappy/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/oplushappy/leetcode/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/oplushappy/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/oplushappy/leetcode/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/oplushappy/leetcode/tree/master/0853-car-fleet) |
