@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/oplushappy/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/oplushappy/leetcode/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/oplushappy/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/oplushappy/leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/oplushappy/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/oplushappy/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/oplushappy/leetcode/tree/master/0042-trapping-rain-water) |
@@ -89,6 +90,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/oplushappy/leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/oplushappy/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/oplushappy/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/oplushappy/leetcode/tree/master/0079-word-search) |
@@ -108,6 +110,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/oplushappy/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/oplushappy/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/oplushappy/leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/oplushappy/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/oplushappy/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/oplushappy/leetcode/tree/master/0128-longest-consecutive-sequence) |
