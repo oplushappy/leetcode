@@ -15,6 +15,7 @@
 | [0040-combination-sum-ii](https://github.com/oplushappy/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/oplushappy/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/oplushappy/leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/oplushappy/leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/oplushappy/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/oplushappy/leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/oplushappy/leetcode/tree/master/0066-plus-one) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/oplushappy/leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/oplushappy/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/oplushappy/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/oplushappy/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/oplushappy/leetcode/tree/master/0079-word-search) |
@@ -176,6 +178,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/oplushappy/leetcode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/oplushappy/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/oplushappy/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/oplushappy/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/oplushappy/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
