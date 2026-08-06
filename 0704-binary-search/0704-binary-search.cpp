@@ -11,17 +11,10 @@ public:
     };
     int search(vector<int>& nums, int target) {
         int n = nums.size();
-        int res = get_first_match(0, n, [&](int idx){
-            if(idx < n && idx >= 0) {
-                return nums[idx] >= target;
-            }
-            return false;
+        int res = get_first_match(0, n - 1, [&](int idx){
+            return nums[idx] >= target;
         });
-        if(res < n && res >= 0) {
-            return nums[res] == target ? res : -1;
-        } else {
-            return -1;
-        }
-        // return res;
+        if(res == n || nums[res] != target) return -1;
+        return res;
     }
 };
