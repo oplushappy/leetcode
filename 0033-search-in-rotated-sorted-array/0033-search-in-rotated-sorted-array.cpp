@@ -15,7 +15,6 @@ public:
         int spot = get_first_match(0, n - 1, [&](int idx) {
             return nums[idx] <= rightest;
         });
-        if(n == 1) return nums[0] == target ? 0 : -1;
         int res1 = get_first_match(0, spot - 1, [&](int idx) {
             return nums[idx] >= target;
         });
