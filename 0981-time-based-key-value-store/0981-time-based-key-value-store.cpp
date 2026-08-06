@@ -19,11 +19,15 @@ public:
     }
     
     string get(string key, int timestamp) {
-        int n = timemap[key].size();
+        auto it = timemap.find(key);
+        if(it == timemap.end()) return "";
+
+        auto &vec = it->second;
+        int n = vec.size();
         int res = get_first_match(0, n - 1, [&](int idx) {
-            return timemap[key][idx].first > timestamp;
+            return vec[idx].first > timestamp;
         });
-        if((res - 1) >= 0) return timemap[key][res - 1].second;
+        if((res - 1) >= 0) return vec[res - 1].second;
         else return "";
     }
 };
