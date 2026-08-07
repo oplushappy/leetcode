@@ -1,35 +1,25 @@
 class Solution {
 public:
+    template<typename T, typename M>
+    T get_first_match(T lo, T hi, M match) {
+        while(lo <= hi) {
+            T mid = lo + (hi - lo) / 2;
+            if(match(mid)) hi = mid - 1;
+            else lo = mid + 1;
+        }
+        return lo;
+    };
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
-        int rows = matrix.size(), columns = matrix[0].size();
-        int top = 0, bottom = rows - 1;
-
-        while(top <= bottom) {
-            int row = (top + bottom) / 2;
-            if(target > matrix[row][columns - 1]) {
-                top = row + 1;
-            } else if(target < matrix[row][0]) {
-                bottom = row - 1;
-            } else {
-                break;
-            }
-        }
-
-        if(top > bottom) return false;
-        
-        int l = 0, r = columns - 1;
-        int row = (top + bottom) / 2;
-        // [[1]]
-        while(l <= r) {
-            int m = (l + r) / 2;
-            if(target > matrix[row][m]) {
-                l = m + 1;
-            } else if(target < matrix[row][m]) {
-                r = m - 1;
-            } else {
-                return true;
-            }
-        }
-        return false;
+        int m = matrix.size(), n = matrix[0].size();
+        int row = get_first_match(0, m - 1, [&](int idx) {
+            return matrix[idx][n - 1] >= target;
+        });
+        if(row == m) return false;
+        if(target <  matrix[row][0]) return false;
+        int col = get_first_match(0, n - 1, [&](int idx) {
+            return matrix[row][idx] >= target;
+        });
+        if(matrix[row][col] != target) return false;
+        return true;
     }
 };
