@@ -52,6 +52,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/oplushappy/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/oplushappy/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0525-contiguous-array](https://github.com/oplushappy/leetcode/tree/master/0525-contiguous-array) |
+| [0542-01-matrix](https://github.com/oplushappy/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/oplushappy/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/oplushappy/leetcode/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/oplushappy/leetcode/tree/master/0695-max-area-of-island) |
@@ -103,6 +104,7 @@
 | [0130-surrounded-regions](https://github.com/oplushappy/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/oplushappy/leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/oplushappy/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/oplushappy/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/oplushappy/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/oplushappy/leetcode/tree/master/0733-flood-fill) |
 | [0870-magic-squares-in-grid](https://github.com/oplushappy/leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -232,6 +234,7 @@
 | [0322-coin-change](https://github.com/oplushappy/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/oplushappy/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/oplushappy/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/oplushappy/leetcode/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/oplushappy/leetcode/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/oplushappy/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/oplushappy/leetcode/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
@@ -385,6 +388,7 @@
 | [0322-coin-change](https://github.com/oplushappy/leetcode/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/oplushappy/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/oplushappy/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/oplushappy/leetcode/tree/master/0542-01-matrix) |
 | [0617-merge-two-binary-trees](https://github.com/oplushappy/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/oplushappy/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/oplushappy/leetcode/tree/master/0733-flood-fill) |
