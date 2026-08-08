@@ -24,27 +24,22 @@ public:
     Node* cloneGraph(Node* node) {
         if(!node) return nullptr;
 
-        queue<Node*> q;
-        Node * dummy = new Node(node->val, node->neighbors);
-        q.push(dummy);
-        unordered_map<Node*, Node*> m;
-        m.insert({node, dummy});
+        unordered_map<Node*, Node*> m({{node, new Node(node->val)}});
+        queue<Node *> q;
+        q.push(node);
 
         while(!q.empty()) {
-            auto n = q.front();
+            Node * cur = q.front();
             q.pop();
-            for(Node* & adj : n->neighbors) {
-                auto it = m.find(adj);
-                if(it == m.end()) {
-                    Node * tmp = new Node(adj->val, adj->neighbors);
-                    m.insert({adj, tmp});
-                    q.push(tmp);
-                    adj = tmp;
-                } else {
-                    adj = it->second;
+            for(Node * adj : cur->neighbors) {
+                if(!m.count(adj)) {
+                    m.insert({adj, new Node(adj->val)});
+                    q.push(adj);
                 }
+                m[cur]->neighbors.push_back(m[adj]);
             }
         }
-        return dummy;
+
+        return m[node];
     }
 };
