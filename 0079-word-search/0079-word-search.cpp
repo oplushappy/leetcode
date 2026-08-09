@@ -11,12 +11,14 @@ public:
         };
         auto visited = vector(m, vector(n, false));
         auto dfs = [&](auto &self, int x, int y, int pos) {
+            if(pos == len - 1) return true;
+
             for(auto [dx, dy] : dirs) {
                 int ddx = x + dx, ddy = y + dy;
                 if(!inside(ddx, ddy)) continue;
                 if(visited[ddx][ddy]) continue;
                 if(board[ddx][ddy] != word[pos + 1]) continue;
-                if(pos + 1 == len - 1) return true;
+                
                 visited[ddx][ddy] = true;
                 if(self(self, ddx, ddy, pos + 1)) return true;
                 visited[ddx][ddy] = false;
@@ -29,7 +31,7 @@ public:
                     if(len == 1) return true;
                     visited[i][j] = true;
                     if(dfs(dfs, i, j, 0)) return true;
-                    visited = vector(m, vector(n, false));
+                    visited[i][j] = false;
                 }
             }
         }
