@@ -57,6 +57,7 @@
 | [0621-task-scheduler](https://github.com/oplushappy/leetcode/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/oplushappy/leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/oplushappy/leetcode/tree/master/0704-binary-search) |
+| [0721-accounts-merge](https://github.com/oplushappy/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/oplushappy/leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/oplushappy/leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/oplushappy/leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -138,6 +139,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/oplushappy/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/oplushappy/leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/oplushappy/leetcode/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/oplushappy/leetcode/tree/master/0721-accounts-merge) |
 | [0757-pyramid-transition-matrix](https://github.com/oplushappy/leetcode/tree/master/0757-pyramid-transition-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/oplushappy/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0981-time-based-key-value-store](https://github.com/oplushappy/leetcode/tree/master/0981-time-based-key-value-store) |
@@ -160,6 +162,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/oplushappy/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/oplushappy/leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/oplushappy/leetcode/tree/master/0647-palindromic-substrings) |
+| [0721-accounts-merge](https://github.com/oplushappy/leetcode/tree/master/0721-accounts-merge) |
 | [0757-pyramid-transition-matrix](https://github.com/oplushappy/leetcode/tree/master/0757-pyramid-transition-matrix) |
 | [0784-letter-case-permutation](https://github.com/oplushappy/leetcode/tree/master/0784-letter-case-permutation) |
 | [0981-time-based-key-value-store](https://github.com/oplushappy/leetcode/tree/master/0981-time-based-key-value-store) |
@@ -213,6 +216,7 @@
 | [0242-valid-anagram](https://github.com/oplushappy/leetcode/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/oplushappy/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/oplushappy/leetcode/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/oplushappy/leetcode/tree/master/0721-accounts-merge) |
 | [0853-car-fleet](https://github.com/oplushappy/leetcode/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/oplushappy/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/oplushappy/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -361,6 +365,7 @@
 | [0572-subtree-of-another-tree](https://github.com/oplushappy/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/oplushappy/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/oplushappy/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/oplushappy/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/oplushappy/leetcode/tree/master/0733-flood-fill) |
 | [0988-flip-equivalent-binary-trees](https://github.com/oplushappy/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1005-univalued-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1005-univalued-binary-tree) |
@@ -391,6 +396,7 @@
 | [0542-01-matrix](https://github.com/oplushappy/leetcode/tree/master/0542-01-matrix) |
 | [0617-merge-two-binary-trees](https://github.com/oplushappy/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/oplushappy/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/oplushappy/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/oplushappy/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/oplushappy/leetcode/tree/master/0994-rotting-oranges) |
 | [1005-univalued-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1005-univalued-binary-tree) |
@@ -536,6 +542,7 @@
 | [0130-surrounded-regions](https://github.com/oplushappy/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/oplushappy/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/oplushappy/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/oplushappy/leetcode/tree/master/0721-accounts-merge) |
 ## Prefix Sum
 |  |
 | ------- |
