@@ -359,6 +359,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/oplushappy/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/oplushappy/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/oplushappy/leetcode/tree/master/0257-binary-tree-paths) |
+| [0310-minimum-height-trees](https://github.com/oplushappy/leetcode/tree/master/0310-minimum-height-trees) |
 | [0404-sum-of-left-leaves](https://github.com/oplushappy/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/oplushappy/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0508-most-frequent-subtree-sum](https://github.com/oplushappy/leetcode/tree/master/0508-most-frequent-subtree-sum) |
@@ -390,6 +391,7 @@
 | [0200-number-of-islands](https://github.com/oplushappy/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/oplushappy/leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/oplushappy/leetcode/tree/master/0226-invert-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/oplushappy/leetcode/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/oplushappy/leetcode/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/oplushappy/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/oplushappy/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -491,6 +493,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/oplushappy/leetcode/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/oplushappy/leetcode/tree/master/0310-minimum-height-trees) |
 ## Greedy
 |  |
 | ------- |
@@ -554,6 +557,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/oplushappy/leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/oplushappy/leetcode/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/oplushappy/leetcode/tree/master/0310-minimum-height-trees) |
 ## Simulation
 |  |
 | ------- |
