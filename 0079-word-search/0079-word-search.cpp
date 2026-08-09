@@ -1,35 +1,38 @@
 class Solution {
 public:
-    int ROWS, COLS;
-     vector<vector<bool>> visited;
-
+    vector<pair<int, int>> dirs = {
+        {-1, 0}, {1, 0}, {0, -1}, {0, 1}
+    };
     bool exist(vector<vector<char>>& board, string word) {
-        ROWS = board.size();
-        COLS = board[0].size();
-        visited = vector<vector<bool>>(ROWS, vector<bool>(COLS, false));
-
-        for(int i = 0 ; i < ROWS; i++) {
-            for(int j = 0; j < COLS; j++) {
-                if(dfs(0, i, j, board, word)) return true;
+        int len = word.size();
+        int m = board.size(), n = board[0].size();
+        auto inside = [&](int x, int y) {
+            return x >= 0 && x < m && y >= 0 && y < n; 
+        };
+        auto visited = vector(m, vector(n, false));
+        auto dfs = [&](auto &self, int x, int y, int pos) {
+            for(auto [dx, dy] : dirs) {
+                int ddx = x + dx, ddy = y + dy;
+                if(!inside(ddx, ddy)) continue;
+                if(visited[ddx][ddy]) continue;
+                if(board[ddx][ddy] != word[pos + 1]) continue;
+                if(pos + 1 == len - 1) return true;
+                visited[ddx][ddy] = true;
+                if(self(self, ddx, ddy, pos + 1)) return true;
+                visited[ddx][ddy] = false;
+            }
+            return false;
+        };
+        for(int i = 0; i < m; i++) {
+            for(int j = 0; j < n; j++) {
+                if(board[i][j] == word[0]) {
+                    if(len == 1) return true;
+                    visited[i][j] = true;
+                    if(dfs(dfs, i, j, 0)) return true;
+                    visited = vector(m, vector(n, false));
+                }
             }
         }
         return false;
-    }
-    bool dfs(int i, int row, int column, vector<vector<char>>& board, string& word) {
-        if(i == word.size()) {
-            return true;
-        }
-        if(row >= ROWS || column >= COLS || row < 0 || column < 0 || word[i] != board[row][column] || visited[row][column]) {
-            return false;
-        }
-
-        visited[row][column] = true;
-        bool result = (dfs(i + 1, row + 1, column, board, word) || 
-                    dfs(i + 1, row - 1, column, board, word) ||
-                    dfs(i + 1, row, column + 1, board, word) ||
-                    dfs(i + 1, row, column - 1, board, word));
-        visited[row][column] = false;
-
-        return result;
     }
 };
