@@ -16,15 +16,13 @@ public:
             for(auto v : graph[u]) {
                 if(!self(self, v)) return false;
             }
-
             state[u] = 2;
-            if(find(res.begin(), res.end(), u) == res.end()) res.push_back(u);
+            res.push_back(u);
             return true;
         };
         
         for(int i = 0; i < numCourses; i++) {
             if(!dfs(dfs, i)) return {};
-            if(res.size() == numCourses) return res;
         }
 
         return res;
