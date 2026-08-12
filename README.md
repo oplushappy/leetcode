@@ -241,6 +241,7 @@
 | [0542-01-matrix](https://github.com/oplushappy/leetcode/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/oplushappy/leetcode/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/oplushappy/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/oplushappy/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/oplushappy/leetcode/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [3660-jump-game-ix](https://github.com/oplushappy/leetcode/tree/master/3660-jump-game-ix) |
 ## Sliding Window
@@ -369,6 +370,7 @@
 | [0695-max-area-of-island](https://github.com/oplushappy/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/oplushappy/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/oplushappy/leetcode/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/oplushappy/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0988-flip-equivalent-binary-trees](https://github.com/oplushappy/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1005-univalued-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -402,6 +404,7 @@
 | [0695-max-area-of-island](https://github.com/oplushappy/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/oplushappy/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/oplushappy/leetcode/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/oplushappy/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/oplushappy/leetcode/tree/master/0994-rotting-oranges) |
 | [1005-univalued-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/oplushappy/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -525,6 +528,7 @@
 | [0239-sliding-window-maximum](https://github.com/oplushappy/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/oplushappy/leetcode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/oplushappy/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/oplushappy/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/oplushappy/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/oplushappy/leetcode/tree/master/1046-last-stone-weight) |
 ## Data Stream
@@ -562,6 +566,7 @@
 | [0207-course-schedule](https://github.com/oplushappy/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/oplushappy/leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/oplushappy/leetcode/tree/master/0310-minimum-height-trees) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/oplushappy/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Simulation
 |  |
 | ------- |
@@ -596,4 +601,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/oplushappy/leetcode/tree/master/0207-course-schedule) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/oplushappy/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
