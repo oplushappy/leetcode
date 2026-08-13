@@ -12,16 +12,19 @@
 class Solution {
 public:
     int kthSmallest(TreeNode* root, int k) {
-        int tk = 0;
         int res = 0;
-        auto post_order = [&](auto &self, TreeNode* node) {
-            if(node == nullptr) return;
+        bool found = false;
+        auto in_order = [&](auto &self, TreeNode* node) {
+            if(node == nullptr || found) return;
             self(self, node->left);
-            tk++;
-            if(tk == k) res = node->val;
+            if(--k == 0) {
+                res = node->val;
+                found = true;
+                return;
+            } 
             self(self, node->right);
         };
-        post_order(post_order, root);
+        in_order(in_order, root);
         return res;
     }
 };
