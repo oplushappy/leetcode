@@ -12,16 +12,17 @@
 class Solution {
 public:
     bool isBalanced(TreeNode* root) {
-        bool res = dfs(root).first;
-        return res;
-    }
-    pair<bool, int> dfs(TreeNode* node) {
-        if(!node) {
-            return {true, 0};
-        }
-        auto left = dfs(node->left);
-        auto right = dfs(node->right);
-        bool balanced = left.first && right.first && (abs(left.second - right.second) <= 1);
-        return {balanced, 1 + max(left.second, right.second)};        
+        bool flag = false;
+        auto f = [&](auto &self, TreeNode* node) {
+            if(!node) return 0;
+            int height = 1;
+            int left = self(self, node->left);
+            int right = self(self, node->right);
+            if(abs(left - right) <= 1) return height + max(left, right);
+            else flag = true;
+            return 0;
+        };
+        f(f, root);
+        return flag ? false : true;
     }
 };
