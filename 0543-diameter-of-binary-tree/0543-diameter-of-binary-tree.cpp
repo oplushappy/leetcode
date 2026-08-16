@@ -15,11 +15,10 @@ public:
         int maximum = 0;
         auto f = [&](auto &self, TreeNode* node) {
             if(!node) return 0;
-            int length = 1;
             int left = self(self, node->left);
             int right = self(self, node->right);
             maximum = max(maximum, left + right);
-            return length + max(left, right);
+            return 1 + max(left, right);
         };
         f(f, root);
         return maximum;
