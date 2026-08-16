@@ -12,16 +12,19 @@
 class Solution {
 public:
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        if(preorder.empty() || inorder.empty()) return nullptr;
+        auto f = [&](auto &self, int l, int r, int idx)-> TreeNode* {
+            if(l > r) return nullptr;
+            
+            int cur = preorder[idx];
+            TreeNode* node = new TreeNode(cur);
+            
+            int index = find(inorder.begin() + l, inorder.begin() + r + 1, cur) - inorder.begin();
+            int leftSize = index - l;
 
-        TreeNode* root = new TreeNode(preorder[0]);
-        auto mid = find(inorder.begin(), inorder.end(), preorder[0]) - inorder.begin();
-        vector<int> left_pre(preorder.begin() + 1, preorder.begin() + mid + 1);
-        vector<int> right_pre(preorder.begin() + mid + 1, preorder.end());
-        vector<int> left_in(inorder.begin(), inorder.begin() + mid);
-        vector<int> right_in(inorder.begin() + mid + 1, inorder.end());
-        root->left = buildTree(left_pre, left_in);  
-        root->right = buildTree(right_pre, right_in);  
-        return root;
+            node->left = self(self, l, index - 1, idx + 1);
+            node->right = self(self, index + 1, r, idx + leftSize + 1);
+            return node;
+        };
+        return f(f, 0, preorder.size() - 1, 0);
     }
 };
