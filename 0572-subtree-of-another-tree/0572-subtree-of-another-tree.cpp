@@ -23,10 +23,7 @@ public:
             if(node1->val == node2->val) {
                 if(judge(judge, node1, node2)) return true;
             };
-            bool left = self(self, node1->left, node2);
-            bool right = self(self, node1->right, node2);
-            if(left || right) return true;
-            return false;
+            return self(self, node1->left, node2) || self(self, node1->right, node2);
         };
         return traverse(traverse, root, subRoot);
     }
