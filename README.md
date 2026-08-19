@@ -133,6 +133,7 @@
 | [0169-majority-element](https://github.com/oplushappy/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/oplushappy/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/oplushappy/leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/oplushappy/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/oplushappy/leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/oplushappy/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0508-most-frequent-subtree-sum](https://github.com/oplushappy/leetcode/tree/master/0508-most-frequent-subtree-sum) |
@@ -160,6 +161,7 @@
 | [0139-word-break](https://github.com/oplushappy/leetcode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/oplushappy/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/oplushappy/leetcode/tree/master/0257-binary-tree-paths) |
+| [0383-ransom-note](https://github.com/oplushappy/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/oplushappy/leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/oplushappy/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/oplushappy/leetcode/tree/master/0567-permutation-in-string) |
@@ -544,6 +546,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/oplushappy/leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/oplushappy/leetcode/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/oplushappy/leetcode/tree/master/0621-task-scheduler) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/oplushappy/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Heap (Priority Queue)
