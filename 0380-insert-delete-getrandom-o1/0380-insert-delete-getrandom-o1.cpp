@@ -1,32 +1,36 @@
 class RandomizedSet {
 public:
-    unordered_set<int> s;
+    vector<int> nums;
+    unordered_map<int, int> valToIdx;
     RandomizedSet() {
         
     }
     
     bool insert(int val) {
-        if(s.count(val)) return false;
-        s.insert(val);
+        if(valToIdx.count(val)) return false;
+        nums.push_back(val);
+        valToIdx[val] = nums.size() - 1;
         return true;
     }
     
     bool remove(int val) {
-        if(!s.count(val)) return false;
-        s.erase(val);
+        if(!valToIdx.count(val)) return false;
+        int idx = valToIdx[val];
+        int last = nums.back();
+
+        nums[idx] = last;
+        valToIdx[last] = idx;
+        
+        nums.pop_back();
+        valToIdx.erase(val);
         return true;
     }
     
     int getRandom() {
         random_device rd;
         mt19937 gen(rd());
-        uniform_int_distribution<int> dist(0, s.size() - 1);
-        int num = dist(gen);
-        auto it = s.begin();
-        while(num--) {
-            it++;
-        }
-        return *it;
+        uniform_int_distribution<int> dist(0, nums.size() - 1);
+        return nums[dist(gen)];
     }
 };
 
