@@ -7,9 +7,7 @@ public:
         }
 
         for(auto c : ransomNote) {
-            if(!magazineMap.count(c)) return false;
-            if(magazineMap[c] < 1) return false;
-            magazineMap[c] -= 1;
+            if(--magazineMap[c] < 0) return false;
         }
         return true;
     }
