@@ -11,26 +11,19 @@
 class Solution {
 public:
     ListNode* partition(ListNode* head, int x) {
-        auto dummy = new ListNode(0, head);
-        auto L = dummy;
-        while(L) {
-            if(L->next && L->next->val < x) L = L->next;
-            else break;
-        }
-        ListNode* cur = L->next;
-        while(cur) {
-            if(cur->next && cur->next->val < x) {
-                auto l = cur->next;
-                auto nxt2 = cur->next->next;
-                auto G = L->next;
-                L->next = l;
-                l->next = G;
-                cur->next = nxt2;
-                L = L->next;
+       auto d1 = new ListNode(0, 0), d2 = new ListNode(0, 0);
+       auto t1 = d1, t2 = d2;
+       for(auto cur = head; cur; cur = cur->next) {
+            if(cur->val < x) {
+                t1->next = cur;
+                t1 = t1->next;
             } else {
-                cur = cur->next;
+                t2->next = cur;
+                t2 = t2->next;
             }
-        }
-        return dummy->next;
+       } 
+       t1->next = d2->next;
+       t2->next = nullptr;
+       return d1->next;
     }
 };
