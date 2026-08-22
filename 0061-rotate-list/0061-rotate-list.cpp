@@ -12,7 +12,6 @@ class Solution {
 public:
     ListNode* rotateRight(ListNode* head, int k) {
         ListNode* dummy = new ListNode(0, head);
-        if(k == 0) return dummy->next;
         int len = 0;
         for(auto cur = dummy->next; cur; cur = cur->next) len++;
         if(len == 0) return nullptr;
