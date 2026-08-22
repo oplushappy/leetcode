@@ -11,18 +11,13 @@
 class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
-        auto dummy = new ListNode(0, head);
-        unordered_set<int> s;
-        auto prev = dummy;
-        for(auto cur = dummy->next; cur; cur = cur->next) {
-            int curV = cur->val;
-            if(s.count(curV)) {
-                prev->next = cur->next;
-                continue;
-            } 
-            s.insert(curV);
-            prev = cur;
+        for(auto cur = head; cur;) {
+            if(cur->next && cur->next->val == cur->val) {
+                cur->next = cur->next->next;
+            } else {
+                cur = cur->next;
+            }
         }
-        return dummy->next;
+        return head;
     }
 };
