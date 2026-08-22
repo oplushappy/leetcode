@@ -294,6 +294,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/oplushappy/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/oplushappy/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/oplushappy/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/oplushappy/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/oplushappy/leetcode/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/oplushappy/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/oplushappy/leetcode/tree/master/0141-linked-list-cycle) |
@@ -306,6 +307,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/oplushappy/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/oplushappy/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/oplushappy/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/oplushappy/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/oplushappy/leetcode/tree/master/0206-reverse-linked-list) |
 ## Bit Manipulation
