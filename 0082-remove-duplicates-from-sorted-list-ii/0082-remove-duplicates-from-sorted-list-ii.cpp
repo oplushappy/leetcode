@@ -12,17 +12,12 @@ class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
         auto dummy = new ListNode(0, head);
-        for(auto cur = dummy; cur; ) {
-            if(cur->next && cur->next->next && cur->next->val == cur->next->next->val) {
-                auto T = cur->next->next;
-                while(T) {
-                    if(T->next && T->val == T->next->val) T = T->next;
-                    else break;
-                }
-                cur->next = T->next;
-            } else {
-                cur = cur->next;
-            }
+        for(auto cur = dummy; cur->next;) {
+            auto F = cur->next;
+            auto L = cur->next->next;
+            while(L && F->val == L->val) L = L->next;
+            if(F->next == L) cur = cur->next;
+            else cur->next = L;
         }
         return dummy->next;
     }
