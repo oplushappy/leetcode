@@ -11,50 +11,20 @@
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        int car = 0;
         auto dummy = new ListNode(0, 0);
-        auto t1 = dummy;
-        while(l1 && l2) {
-            int tmp = l1->val + l2->val;
-            if(car) tmp += 1;
-            if(tmp >= 10) {
-                t1->next = new ListNode(tmp - 10, 0);
-                car = 1;
-            } else {
-                t1->next = new ListNode(tmp, 0);
-                car = 0;
-            }
-            t1 = t1->next;
-            l1 = l1->next;
-            l2 = l2->next;
+        auto cur = dummy;
+        int carry = 0;
+
+        while(l1 || l2 || carry) {
+            int sum = carry;
+            if(l1) {sum += l1->val; l1 = l1->next;}
+            if(l2) {sum += l2->val; l2 = l2->next;}
+
+            carry = sum / 10;
+            cur->next = new ListNode(sum % 10, 0);
+            cur = cur->next;
         }
-        while(l1) {
-            int tmp = l1->val;
-            if(car) tmp += 1;
-            if(tmp >= 10) {
-                t1->next = new ListNode(tmp - 10, 0);
-                car = 1;
-            } else {
-                t1->next = new ListNode(tmp, 0);
-                car = 0;
-            }
-            t1 = t1->next;
-            l1 = l1->next;
-        }
-        while(l2) {
-            int tmp = l2->val;
-            if(car) tmp += 1;
-            if(tmp >= 10) {
-                t1->next = new ListNode(tmp - 10, 0);
-                car = 1;
-            } else {
-                t1->next = new ListNode(tmp, 0);
-                car = 0;
-            }
-            t1 = t1->next;
-            l2 = l2->next;
-        }
-        if(car) t1->next = new ListNode(1, 0);
+        
         return dummy->next;
     }
 };
