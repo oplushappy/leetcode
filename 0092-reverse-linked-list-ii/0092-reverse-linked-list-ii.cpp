@@ -9,41 +9,23 @@
  * };
  */
 class Solution {
+    void reverseAfterK(ListNode* cur, int k) {
+        auto T = cur->next;
+        while(--k) {
+            auto F = cur->next;
+            auto N = T->next;
+            auto NN = N->next;
+            cur->next = N;
+            N->next = F;
+            T->next = NN;
+        }
+    }
 public:
     ListNode* reverseBetween(ListNode* head, int left, int right) {
-        if(left == right) return head;
         auto dummy = new ListNode(0, head);
-        ListNode* leftN, * rightN, *tmpD;
-        int n = 0;
         auto cur = dummy;
-        while(cur) {
-            if(n == left - 1) {
-                tmpD = cur;
-                leftN = cur->next;
-                n++;
-                break;
-            }
-            cur = cur->next;
-            n++;
-        }
-        for(auto cur = leftN; cur; cur = cur->next, n++) {
-            if(n == right) {
-                rightN = cur;
-                break;
-            }
-        }
-        ListNode* prev = nullptr;
-        cur = leftN;
-        ListNode* nxt;
-        while(cur) {
-            nxt = cur->next;
-            cur->next = prev;
-            prev = cur;
-            cur = nxt;
-            if(prev == rightN) break;
-        }
-        tmpD->next = rightN;
-        leftN->next = nxt;
+        for(int i = 1; i < left; i++) cur = cur->next;
+        reverseAfterK(cur, right - left + 1);
         return dummy->next;
     }
 };
