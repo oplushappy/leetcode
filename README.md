@@ -17,6 +17,7 @@
 | [0042-trapping-rain-water](https://github.com/oplushappy/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/oplushappy/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/oplushappy/leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/oplushappy/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/oplushappy/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/oplushappy/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/oplushappy/leetcode/tree/master/0056-merge-intervals) |
@@ -126,6 +127,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/oplushappy/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/oplushappy/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/oplushappy/leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/oplushappy/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/oplushappy/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/oplushappy/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/oplushappy/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -163,6 +165,7 @@
 | [0014-longest-common-prefix](https://github.com/oplushappy/leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/oplushappy/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/oplushappy/leetcode/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/oplushappy/leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/oplushappy/leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/oplushappy/leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/oplushappy/leetcode/tree/master/0115-distinct-subsequences) |
@@ -225,6 +228,7 @@
 | ------- |
 | [0015-3sum](https://github.com/oplushappy/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/oplushappy/leetcode/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/oplushappy/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/oplushappy/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/oplushappy/leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/oplushappy/leetcode/tree/master/0148-sort-list) |
