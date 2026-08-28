@@ -141,6 +141,7 @@
 | [0383-ransom-note](https://github.com/oplushappy/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/oplushappy/leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/oplushappy/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/oplushappy/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0508-most-frequent-subtree-sum](https://github.com/oplushappy/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0525-contiguous-array](https://github.com/oplushappy/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/oplushappy/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -172,6 +173,7 @@
 | [0383-ransom-note](https://github.com/oplushappy/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/oplushappy/leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/oplushappy/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/oplushappy/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/oplushappy/leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/oplushappy/leetcode/tree/master/0647-palindromic-substrings) |
 | [0721-accounts-merge](https://github.com/oplushappy/leetcode/tree/master/0721-accounts-merge) |
@@ -268,6 +270,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/oplushappy/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/oplushappy/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/oplushappy/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/oplushappy/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/oplushappy/leetcode/tree/master/0567-permutation-in-string) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/oplushappy/leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 ## Two Pointers
