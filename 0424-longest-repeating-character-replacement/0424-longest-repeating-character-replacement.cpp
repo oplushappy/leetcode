@@ -11,7 +11,7 @@ public:
             while((r - l + 1) - maxF > k) {
                 count[s[l] - 'A']--;
                 l++;
-                maxF = *max_element(count.begin(), count.end());
+                // maxF = *max_element(count.begin(), count.end());
             }
             res = max(res, r - l + 1);
         }
