@@ -8,31 +8,28 @@ public:
     }
     
     void push(int x) {
-        size++;
         st1.push(x);
-        auto tmp = st1;
-        stack<int> empty;
-        swap(empty, st2);
-        while(!tmp.empty() && st2.size() != size) {
-            st2.push(tmp.top());
-            tmp.pop();
-        }
     }
     
     int pop() {
-        size--;
-        int ans = st2.top();
+        peek();
+        int res = st2.top();
         st2.pop();
-        return ans;
+        return res;
     }
     
     int peek() {
-        int ans = st2.top();
-        return ans;
+        if(st2.empty()) {
+            while(!st1.empty()) {
+                st2.push(st1.top());
+                st1.pop();
+            }
+        }
+        return st2.top();
     }
     
     bool empty() {
-        return st2.empty();
+        return st1.empty() && st2.empty();
     }
 };
 
