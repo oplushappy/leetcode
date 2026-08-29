@@ -185,6 +185,7 @@
 | [0721-accounts-merge](https://github.com/oplushappy/leetcode/tree/master/0721-accounts-merge) |
 | [0757-pyramid-transition-matrix](https://github.com/oplushappy/leetcode/tree/master/0757-pyramid-transition-matrix) |
 | [0784-letter-case-permutation](https://github.com/oplushappy/leetcode/tree/master/0784-letter-case-permutation) |
+| [0844-backspace-string-compare](https://github.com/oplushappy/leetcode/tree/master/0844-backspace-string-compare) |
 | [0981-time-based-key-value-store](https://github.com/oplushappy/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/oplushappy/leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/oplushappy/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -208,6 +209,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/oplushappy/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/oplushappy/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/oplushappy/leetcode/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/oplushappy/leetcode/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/oplushappy/leetcode/tree/master/0853-car-fleet) |
 ## Math
 |  |
@@ -307,6 +309,7 @@
 | [0287-find-the-duplicate-number](https://github.com/oplushappy/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/oplushappy/leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/oplushappy/leetcode/tree/master/0647-palindromic-substrings) |
+| [0844-backspace-string-compare](https://github.com/oplushappy/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/oplushappy/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/oplushappy/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1861-rotating-the-box](https://github.com/oplushappy/leetcode/tree/master/1861-rotating-the-box) |
@@ -652,6 +655,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/oplushappy/leetcode/tree/master/0054-spiral-matrix) |
+| [0844-backspace-string-compare](https://github.com/oplushappy/leetcode/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/oplushappy/leetcode/tree/master/1260-shift-2d-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/oplushappy/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Merge Sort
