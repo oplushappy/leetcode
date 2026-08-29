@@ -165,6 +165,7 @@
 | [0008-string-to-integer-atoi](https://github.com/oplushappy/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/oplushappy/leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/oplushappy/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/oplushappy/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/oplushappy/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/oplushappy/leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/oplushappy/leetcode/tree/master/0079-word-search) |
@@ -198,6 +199,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/oplushappy/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/oplushappy/leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/oplushappy/leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/oplushappy/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -704,6 +706,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/oplushappy/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/oplushappy/leetcode/tree/master/0022-generate-parentheses) |
 ## Floyd's Cycle Finding Algorithm
 |  |
