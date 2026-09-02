@@ -53,6 +53,7 @@
 | [0287-find-the-duplicate-number](https://github.com/oplushappy/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/oplushappy/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/oplushappy/leetcode/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/oplushappy/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/oplushappy/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/oplushappy/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/oplushappy/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -588,6 +589,7 @@
 | [0011-container-with-most-water](https://github.com/oplushappy/leetcode/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/oplushappy/leetcode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/oplushappy/leetcode/tree/master/0179-largest-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/oplushappy/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/oplushappy/leetcode/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/oplushappy/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/oplushappy/leetcode/tree/master/0621-task-scheduler) |
@@ -727,4 +729,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/oplushappy/leetcode/tree/master/0322-coin-change) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/oplushappy/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
