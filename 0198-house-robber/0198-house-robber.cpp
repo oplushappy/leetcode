@@ -1,13 +1,13 @@
 class Solution {
 public:
     int rob(vector<int>& nums) {
-        int rob1 = 0, rob2 = 0;
-        // [rob1, rob2, n, n + 1, ...]
-        for(auto n: nums) {
-            int temp = max(n + rob1, rob2);
-            rob1 = rob2;
-            rob2 = temp;
+        int n = nums.size();
+        auto dp = vector(n, vector(2, 0));
+        dp[0][1] = nums[0];
+        for(int i = 1; i < n; i++) {
+            dp[i][0] = max(dp[i-1][0], dp[i-1][1]);
+            dp[i][1] = dp[i-1][0] + nums[i];
         }
-        return rob2;
+        return max(dp[n-1][0], dp[n-1][1]);
     }
 };
