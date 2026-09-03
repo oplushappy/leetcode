@@ -270,6 +270,7 @@
 | [0213-house-robber-ii](https://github.com/oplushappy/leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/oplushappy/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/oplushappy/leetcode/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/oplushappy/leetcode/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/oplushappy/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/oplushappy/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/oplushappy/leetcode/tree/master/0542-01-matrix) |
@@ -354,6 +355,7 @@
 | [0090-subsets-ii](https://github.com/oplushappy/leetcode/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/oplushappy/leetcode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/oplushappy/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/oplushappy/leetcode/tree/master/0338-counting-bits) |
 | [0757-pyramid-transition-matrix](https://github.com/oplushappy/leetcode/tree/master/0757-pyramid-transition-matrix) |
 | [0784-letter-case-permutation](https://github.com/oplushappy/leetcode/tree/master/0784-letter-case-permutation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/oplushappy/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
