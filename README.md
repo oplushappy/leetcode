@@ -50,6 +50,7 @@
 | [0217-contains-duplicate](https://github.com/oplushappy/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/oplushappy/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/oplushappy/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/oplushappy/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/oplushappy/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/oplushappy/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/oplushappy/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -94,6 +95,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/oplushappy/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/oplushappy/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/oplushappy/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/oplushappy/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/oplushappy/leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/oplushappy/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/oplushappy/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -142,6 +144,7 @@
 | [0169-majority-element](https://github.com/oplushappy/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/oplushappy/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/oplushappy/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/oplushappy/leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/oplushappy/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/oplushappy/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/oplushappy/leetcode/tree/master/0409-longest-palindrome) |
@@ -222,6 +225,7 @@
 | [0070-climbing-stairs](https://github.com/oplushappy/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/oplushappy/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/oplushappy/leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/oplushappy/leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/oplushappy/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0870-magic-squares-in-grid](https://github.com/oplushappy/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0973-k-closest-points-to-origin](https://github.com/oplushappy/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -247,6 +251,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/oplushappy/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/oplushappy/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/oplushappy/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/oplushappy/leetcode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/oplushappy/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/oplushappy/leetcode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/oplushappy/leetcode/tree/master/0721-accounts-merge) |
@@ -356,6 +361,7 @@
 | [0090-subsets-ii](https://github.com/oplushappy/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/oplushappy/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/oplushappy/leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/oplushappy/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/oplushappy/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/oplushappy/leetcode/tree/master/0338-counting-bits) |
 | [0757-pyramid-transition-matrix](https://github.com/oplushappy/leetcode/tree/master/0757-pyramid-transition-matrix) |
