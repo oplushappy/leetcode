@@ -56,6 +56,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/oplushappy/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/oplushappy/leetcode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/oplushappy/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/oplushappy/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/oplushappy/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/oplushappy/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/oplushappy/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -145,6 +146,7 @@
 | [0217-contains-duplicate](https://github.com/oplushappy/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/oplushappy/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/oplushappy/leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/oplushappy/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/oplushappy/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/oplushappy/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/oplushappy/leetcode/tree/master/0409-longest-palindrome) |
@@ -252,6 +254,7 @@
 | [0217-contains-duplicate](https://github.com/oplushappy/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/oplushappy/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/oplushappy/leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/oplushappy/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/oplushappy/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/oplushappy/leetcode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/oplushappy/leetcode/tree/master/0721-accounts-merge) |
@@ -557,6 +560,7 @@
 | [0169-majority-element](https://github.com/oplushappy/leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/oplushappy/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/oplushappy/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/oplushappy/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/oplushappy/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Backtracking
 |  |
@@ -613,6 +617,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/oplushappy/leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/oplushappy/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/oplushappy/leetcode/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/oplushappy/leetcode/tree/master/0621-task-scheduler) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/oplushappy/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -622,6 +627,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/oplushappy/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/oplushappy/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/oplushappy/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/oplushappy/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/oplushappy/leetcode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/oplushappy/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/oplushappy/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -635,6 +641,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/oplushappy/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/oplushappy/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/oplushappy/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Trie
 |  |
@@ -743,4 +750,8 @@
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/oplushappy/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/oplushappy/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
