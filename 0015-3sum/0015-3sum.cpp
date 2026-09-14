@@ -6,6 +6,8 @@ public:
         sort(nums.begin(), nums.end());
         for(int i = 0; i < n && nums[i] <= 0; i++) {
             int l = i + 1, r = n - 1;
+            if(i > 0 && nums[i] == nums[i - 1]) continue;
+            if(i + 2 < n && nums[i] + nums[i + 1] + nums[i + 2] > 0) break;
             int target = abs(nums[i]);
             while(l < r) {
                 int sum = nums[l] + nums[r];
@@ -18,7 +20,6 @@ public:
                 else if(sum < target) l++;
                 else r--;
             }
-            while((i + 1) < n && nums[i] == nums[i + 1]) i++;
         }
         return res;
     }
