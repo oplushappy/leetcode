@@ -4,7 +4,6 @@ public:
         sort(nums.begin(), nums.end());
         int n = nums.size();
         vector<vector<int>> res;
-        set<vector<int>> s;
         for(int i = 0; i < n && nums[i] <= 0; i++) {
             if(i > 0 && nums[i] == nums[i-1]) continue;
             int cur = nums[i];
@@ -12,16 +11,15 @@ public:
             while(l < r) {
                 int sum = nums[l] + nums[r] + cur;
                 if(sum == 0) {
-                    s.insert({cur, nums[l], nums[r]});
+                    res.push_back({cur, nums[l], nums[r]});
                     l++;
                     r--;
+                    while(l < r && nums[l] == nums[l - 1]) l++;
+                    while(r > 0 && (r + 1) < n && nums[r] == nums[r + 1]) r--;
                 } 
                 else if(sum > 0) r--;
                 else l++;
             } 
-        }
-        for(auto v : s) {
-            res.push_back(v);
         }
         return res;
     }
