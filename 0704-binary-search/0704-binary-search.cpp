@@ -1,20 +1,13 @@
 class Solution {
 public:
-    template<typename T, typename M>
-    T get_first_match(T lo, T hi, M match) {
-        while(lo <= hi) {
-            T mid = lo + (hi - lo) / 2;
-            if(match(mid)) hi = mid - 1;
-            else lo = mid + 1;
-        }
-        return lo;
-    };
     int search(vector<int>& nums, int target) {
-        int n = nums.size();
-        int res = get_first_match(0, n - 1, [&](int idx){
-            return nums[idx] >= target;
-        });
-        if(res == n || nums[res] != target) return -1;
-        return res;
+        int l = 0, r = nums.size() - 1;
+        while(l <= r) {
+            int mid = l + (r - l) / 2;
+            if(nums[mid] == target) return mid;
+            else if(nums[mid] > target) r = mid - 1;
+            else l = mid + 1;
+        }
+        return -1;
     }
 };
