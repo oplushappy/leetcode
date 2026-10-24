@@ -199,6 +199,7 @@
 | [0844-backspace-string-compare](https://github.com/oplushappy/leetcode/tree/master/0844-backspace-string-compare) |
 | [0981-time-based-key-value-store](https://github.com/oplushappy/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/oplushappy/leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
+| [2409-count-days-spent-together](https://github.com/oplushappy/leetcode/tree/master/2409-count-days-spent-together) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/oplushappy/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Design
 |  |
@@ -237,6 +238,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/oplushappy/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/oplushappy/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1284-four-divisors](https://github.com/oplushappy/leetcode/tree/master/1284-four-divisors) |
+| [2409-count-days-spent-together](https://github.com/oplushappy/leetcode/tree/master/2409-count-days-spent-together) |
 ## Monotonic Stack
 |  |
 | ------- |
