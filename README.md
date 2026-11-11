@@ -86,6 +86,7 @@
 | [1284-four-divisors](https://github.com/oplushappy/leetcode/tree/master/1284-four-divisors) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/oplushappy/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/oplushappy/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/oplushappy/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/oplushappy/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/oplushappy/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1861-rotating-the-box](https://github.com/oplushappy/leetcode/tree/master/1861-rotating-the-box) |
