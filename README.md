@@ -199,6 +199,7 @@
 | [0844-backspace-string-compare](https://github.com/oplushappy/leetcode/tree/master/0844-backspace-string-compare) |
 | [0981-time-based-key-value-store](https://github.com/oplushappy/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/oplushappy/leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
+| [1768-merge-strings-alternately](https://github.com/oplushappy/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2409-count-days-spent-together](https://github.com/oplushappy/leetcode/tree/master/2409-count-days-spent-together) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/oplushappy/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Design
@@ -330,6 +331,7 @@
 | [0844-backspace-string-compare](https://github.com/oplushappy/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/oplushappy/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/oplushappy/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/oplushappy/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1861-rotating-the-box](https://github.com/oplushappy/leetcode/tree/master/1861-rotating-the-box) |
 ## Linked List
 |  |
