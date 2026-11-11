@@ -198,6 +198,7 @@
 | [0784-letter-case-permutation](https://github.com/oplushappy/leetcode/tree/master/0784-letter-case-permutation) |
 | [0844-backspace-string-compare](https://github.com/oplushappy/leetcode/tree/master/0844-backspace-string-compare) |
 | [0981-time-based-key-value-store](https://github.com/oplushappy/leetcode/tree/master/0981-time-based-key-value-store) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/oplushappy/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/oplushappy/leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1768-merge-strings-alternately](https://github.com/oplushappy/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2409-count-days-spent-together](https://github.com/oplushappy/leetcode/tree/master/2409-count-days-spent-together) |
@@ -237,6 +238,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/oplushappy/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0870-magic-squares-in-grid](https://github.com/oplushappy/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0973-k-closest-points-to-origin](https://github.com/oplushappy/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/oplushappy/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1266-minimum-time-visiting-all-points](https://github.com/oplushappy/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1284-four-divisors](https://github.com/oplushappy/leetcode/tree/master/1284-four-divisors) |
 | [2409-count-days-spent-together](https://github.com/oplushappy/leetcode/tree/master/2409-count-days-spent-together) |
@@ -763,4 +765,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/oplushappy/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/oplushappy/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/oplushappy/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
