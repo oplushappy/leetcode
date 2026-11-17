@@ -1,12 +1,10 @@
 class Solution {
 public:
     bool isSubsequence(string s, string t) {
-        int m = t.size(), n = s.size();
-        if(!m && !n) return true;
-        for(int sPos = 0, cur = 0; cur < m; cur++) {
-            if(s[sPos] == t[cur]) sPos++;
-            if(sPos == n) return true;
+        int i = 0;
+        for(int cur = 0; cur < t.size() && i < s.size(); cur++) {
+            if(s[i] == t[cur]) i++;
         }
-        return false;
+        return i == s.size();
     }
 };
